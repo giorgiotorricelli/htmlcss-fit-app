@@ -44,3 +44,13 @@ input:focus {
     box-shadow: 0 2px 10px rgba(14, 8, 190, 0.5);
     outline: none; 
 }
+
+button {
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, translate 0.3s ease;
+}
+
+button:hover {
+    background-color: #6ab7ff;
+    translate: 0 -3px;
+    box-shadow: 0 2px 10px rgba(54, 89, 229, 0.5);
+}
