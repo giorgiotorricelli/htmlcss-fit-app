@@ -23,3 +23,8 @@
     border-left: 4px solid #F39C12;
 }
 
+.exercise-item:first-child,
+.exercise-item:last-child {
+    background-color: rgb(230, 255, 211);
+    border-left: 4px solid rgb(129, 187, 41);
+}
