@@ -18,3 +18,8 @@
     translate: 0 -5px;
 }
 
+.workout-plan:nth-child(3) {
+    background-color: rgb(244, 244, 156);
+    border-left: 4px solid #F39C12;
+}
+
