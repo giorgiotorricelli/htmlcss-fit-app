@@ -67,3 +67,17 @@ button:hover {
     right: 5%;
     font-size: 0.7rem;
 }
+
+a {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a:hover {
+    background-color: #38516b;
+    color: rgb(110, 110, 193);
+}
+
+a:first-child:visited {
+    background-color: #38516b;
+    color: rgb(110, 110, 193);
+}
