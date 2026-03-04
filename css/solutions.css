@@ -6,5 +6,10 @@
 
 .stats-grid:last-child {
     background-image: linear-gradient(to right, #6878E1, #754FA8);
+}
+
+.stats-grid:last-child .stat-number,
+.stats-grid:last-child .stat-label {
     color: white;
 }
+
