@@ -3,3 +3,8 @@
     display: block;
     font-size: 2em;
 }
+
+.stats-grid:last-child {
+    background-image: linear-gradient(to right, #6878E1, #754FA8);
+    color: white;
+}
